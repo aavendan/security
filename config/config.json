@@ -6,19 +6,20 @@
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
-  "production": {
-    "username": "root",
-    "password": "2h2Hc11551hgdh4D2425HBCFfeH32A6-",
-    "database": "railway",
-    "host": "roundhouse.proxy.rlwy.net",
-    "dialect": "mysql",
-    "port": "24271"
-  },
   "test": {
     "username": "root",
     "password": null,
     "database": "database_production",
     "host": "127.0.0.1",
     "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "h-DehB-4fF6e4f5cBGgebFbF4b5GcdD2",
+    "database": "railway",
+    "host": "viaduct.proxy.rlwy.net",
+    "dialect": "mysql",
+    "port": "28213"
   }
+  
 }
