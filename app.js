@@ -31,7 +31,7 @@ app.use(session({
   name: 'session.security',
   resave: false,
   saveUninitialized: false,
-  cookie: { secure: false }
+  cookie: { secure: true }
 }));
 
 app.use(express.json());
